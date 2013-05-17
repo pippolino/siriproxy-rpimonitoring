@@ -16,3 +16,9 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# Mac
+.DS_Store
+
+# IDE
+.idea
